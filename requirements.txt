@@ -1,0 +1,41 @@
+# common
+
+openai>=1.12
+langchain-core>=0.1.25
+pydantic>=1.10
+omegaconf>=2.3
+python-dotenv>=1.0
+PyYAML>=6.0
+pandas>=2.0
+numpy>=1.24
+tqdm>=4.66
+nltk>=3.8
+
+# ubertext\_gec
+
+transformers>=4.40
+tiktoken>=0.6
+
+# reddit\_multigec
+
+praw>=7.7
+prawcore>=2.4
+langid>=1.1
+language\_tool\_python>=2.7
+flatten\_dict>=0.4
+
+# omnigec
+
+matplotlib>=3.8
+seaborn>=0.13
+hvplot>=0.9
+holoviews>=1.17
+ansi2html>=1.8
+
+# automatic\_evaluation
+
+evaluate>=0.4
+scikit-learn>=1.3
+textdistance>=4.6
+python-Levenshtein>=0.24
+mlflow>=2.12
