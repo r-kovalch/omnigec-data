@@ -1,0 +1,17 @@
+experiment:
+  experiment_name: "ubertext"
+  run_name: "experiment"
+tokenizer:
+  model_name: "gpt-4o-mini"
+processing:
+  start_at: 0
+  end_at: 20
+multi_gec:
+  num_corrections: 3
+  temperature: 0.8
+  top_p: 0.8
+  model_name: "gpt-4o-mini"
+gec_aggregation:
+  temperature: 0.4
+  top_p: 0.2
+  model_name: "gpt-4o-mini"

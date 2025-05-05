@@ -1,0 +1,36 @@
+experiment:
+  experiment_name: "reddit"
+  run_name: "experiment"
+tokenizer:
+  model_name: "gpt-4o-mini"
+data_collection:
+  subreddits:
+    czech:
+      - "cesky"
+      - "Brno"
+      - "czech"
+    english:
+      - "unitedkingdom"
+      - "repair"
+      - "usajobs"
+      - "immigration"
+      - "travel"
+    estonian:
+      - "Eesti"
+    german:
+      - "de"
+      - "ich_iel"
+    greek:
+      - "greece"
+    icelandic:
+      - "learnIcelandic"
+    italian:
+      - "Italia"
+    latvian:
+      - "latvia"
+    slovene:
+      - "Slovenia"
+    swedish:
+      - "Svenska"
+    ukrainian:
+      - "Ukraine_UA"
