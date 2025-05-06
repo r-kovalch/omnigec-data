@@ -100,9 +100,21 @@ The module:
 ---
 
 ## Citing
-
 TBD
+```bibtex
+@inproceedings{omnigec2025,
+  author    = {Roman Kovalchuk, Petro Ivaniuk, Mariana Romanyshyn},
+  title     = {Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error Correction},
+  booktitle = {Proceedings of ACL 2025},
+  year      = {2025}
+}
+```
 
 ---
 
 © 2025 [Roman Kovalchuk](https://huggingface.co/rkovalchuk), [Petro Ivaniuk](https://huggingface.co/peterua), [Mariana Romanyshyn](https://huggingface.co/mariana-scorp). Licensed under the MIT License.
+
+## Notes
+
+- For details on trained moels on this data, refer to omnigec-models repository: https://github.com/r-kovalch/omnigec-models
+
