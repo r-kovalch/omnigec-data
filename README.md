@@ -116,5 +116,5 @@ TBD
 
 ## Notes
 
-- For details on trained moels on this data, refer to omnigec-models repository: https://github.com/r-kovalch/omnigec-models
+- For details on trained models on this data, refer to the omnigec-models repository: https://github.com/r-kovalch/omnigec-models
 
