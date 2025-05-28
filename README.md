@@ -115,7 +115,7 @@ TBD
 
 ---
 
-© 2025 [Roman Kovalchuk](https://huggingface.co/rkovalchuk), [Petro Ivaniuk](https://huggingface.co/peterua), [Mariana Romanyshyn](https://huggingface.co/mariana-scorp). Licensed under the MIT License.
+© 2025 [Roman Kovalchuk](https://github.com/r-kovalch), [Petro Ivaniuk](https://github.com/PetroIvaniuk), [Mariana Romanyshyn](https://github.com/mariana-scorp). Licensed under the MIT License.
 
 ## Notes
 
