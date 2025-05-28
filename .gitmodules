@@ -1,0 +1,3 @@
+[submodule "notebooks/wikiedits-multigec"]
+	path = notebooks/wikiedits-multigec
+	url = https://github.com/PetroIvaniuk/wikiedits-multigec.git

@@ -90,6 +90,9 @@ The module:
 
 ## WikiEdits → WikiEdits‑MultiGEC
 
+The code for WikiEdits-MultiGEC is maintained in another GitHub Repo – [WikiEdits-MultiGEC](https://github.com/PetroIvaniuk/wikiedits-multigec.git).\
+However, it's linked to the OmniGEC-Data, as a submodule within `notebooks/wikiedits-multigec`
+
 ---
 
 ## Data Visualizations
